@@ -1,11 +1,16 @@
 body{
-	background-color: #FFFFFF;
-	font-family: verdana;
+	background:#00BFFF;
+	font-family: arial black;
+}
+.logo{
+	width: 65px;
+	height: 65px;
 }
 h6{
+	color: #ea9b1f;
 	text-align: center;
 	font-size: 30px;
-	text-decoration: underline;
+	text-shadow: 2px 1px #f9e07e;
 }
 .md-content{
 	margin-top:10px;
@@ -17,15 +22,4 @@ h6{
 	margin-top:20px;
 	margin-bottom:20px;
 }
-.thead-dark tr{
-	text-align: center;
-	border: 2px solid #000000;
-}
-tbody{
-	text-align: center;
-	border: 2px solid #000000;
-}
-td{
-	text-align: center;
-	border: 2px solid #000000;
-}
+

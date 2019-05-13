@@ -45,7 +45,7 @@
 					<div class="col-lg-10 col-xl-8 offset-0 offset-sm-0 offset-md-0 offset-lg-1 offset-xl-2 ">
 						<!--<div style="margin-bottom:10px; font-family:forte;"></div>-->
 						<div class="title-01 title-01__style-04">
-							<h6 class="title-01__subTitle">BILLET</h6>
+							<h6 class="title-01__subTitle"> <img class="logo" src="img/logo.png"> BILLET</h6>
 						</div><!-- End / title-01 -->
                     </div>
 				</div>
@@ -68,7 +68,7 @@
 				<table  class="table table-hover table-bordered table-responsive" id="userTbl">
 					<!--<table class="table table-hover table-dark">-->
 					<thead class="thead-dark">
-						<tr>
+						<tr style="text-align: center;">
 							<!--<th>idMpiangona</th>-->
 							<th>N</th>
 							<th>Laharana</th>
