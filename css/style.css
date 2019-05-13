@@ -1,0 +1,31 @@
+body{
+	background-color: #FFFFFF;
+	font-family: verdana;
+}
+h6{
+	text-align: center;
+	font-size: 30px;
+	text-decoration: underline;
+}
+.md-content{
+	margin-top:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+	margin-left:10px;
+}
+.form__item{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.thead-dark tr{
+	text-align: center;
+	border: 2px solid #000000;
+}
+tbody{
+	text-align: center;
+	border: 2px solid #000000;
+}
+td{
+	text-align: center;
+	border: 2px solid #000000;
+}
